@@ -1,6 +1,6 @@
 # mech
 ### Site Settings ###
-title               : **love you DHEER**
+title               : **love you DHEER2**
 description         : >
                       Design Engineer  :computer:  Loves to build,
                       Sometimes Does Photography :camera:
