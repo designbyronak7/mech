@@ -1,6 +1,6 @@
 # mech
 ### Site Settings ###
-title               : Yash Rathod
+title               : love you DHEER
 description         : >
                       Design Engineer  :computer:  Loves to build,
                       Sometimes Does Photography :camera:
